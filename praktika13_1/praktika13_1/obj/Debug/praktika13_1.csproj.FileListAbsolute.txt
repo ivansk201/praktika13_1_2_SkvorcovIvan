@@ -1,0 +1,7 @@
+C:\Users\305-6\Desktop\Скворцов Иван\praktika13_1\praktika13_1\bin\Debug\praktika13_1.exe.config
+C:\Users\305-6\Desktop\Скворцов Иван\praktika13_1\praktika13_1\bin\Debug\praktika13_1.exe
+C:\Users\305-6\Desktop\Скворцов Иван\praktika13_1\praktika13_1\bin\Debug\praktika13_1.pdb
+C:\Users\305-6\Desktop\Скворцов Иван\praktika13_1\praktika13_1\obj\Debug\praktika13_1.csproj.AssemblyReference.cache
+C:\Users\305-6\Desktop\Скворцов Иван\praktika13_1\praktika13_1\obj\Debug\praktika13_1.csproj.CoreCompileInputs.cache
+C:\Users\305-6\Desktop\Скворцов Иван\praktika13_1\praktika13_1\obj\Debug\praktika13_1.exe
+C:\Users\305-6\Desktop\Скворцов Иван\praktika13_1\praktika13_1\obj\Debug\praktika13_1.pdb
